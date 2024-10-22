@@ -6,7 +6,8 @@
   "permissions": [
     "tabs",
     "activeTab",
-    "scripting"
+    "scripting",
+    "clipboardWrite"
   ],
   "icons": {
     "48": "icons/pleasure.png"
