@@ -9,6 +9,6 @@ Example:
 
 https://www.faceit.com/en/teams/30dd56ee-d645-4cd7-a7ca-e2ce5b7eddd8/leagues
 
-clicking the extension button on the toolbar will copy the matches for the current season. You will have to click to other season's and copy again.
+clicking the extension button on the toolbar will copy the matches for the current season. You will have to click to other seasons and copy again.
 
 With that data you can paste it into another application. I'll make one and link it here. TODO.
