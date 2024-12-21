@@ -10,7 +10,7 @@
     "clipboardWrite"
   ],
   "icons": {
-    "48": "icons/pleasure.png"
+    "48": "icons/Pleasure.png"
   },
   "background": {
     "scripts": [
@@ -19,7 +19,7 @@
     "persistent": false
   },
   "browser_action": {
-    "default_icon": "icons/pleasure.png",
+    "default_icon": "icons/Pleasure.png",
     "default_title": "copy"
   }
 }
